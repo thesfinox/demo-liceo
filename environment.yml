@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - seaborn
+  - scikit-learn
+  - tensorflow-gpu
+  - jupyterlab
+  - numpy[version='<1.20']
+  - pydot
