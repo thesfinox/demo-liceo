@@ -4,8 +4,8 @@
 >
 > 27 maggio 2021
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesfinox/demo-liceo/HEAD?filepath=demo_20210527.ipynb)
-[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.jupyter.org/github/thesfinox/demo-liceo/blob/master/demo_20210527.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesfinox/demo-liceo/HEAD?filepath=demo.ipynb)
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.jupyter.org/github/thesfinox/demo-liceo/blob/master/demo.ipynb)
 
 # Sommario
 
