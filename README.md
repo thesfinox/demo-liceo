@@ -16,4 +16,4 @@ I compiti affrontati sono:
 2. classificazione di cifre scritte a mano del *MNIST Dataset*,
 3. riconoscimento della scrittura a mano in presenza di rumore di fondo.
 
-Il notebook [Jupyter](https://jupyter.org/) è disponibile sia in versione interattiva su [Binder.org](https://mybinder.org/v2/gh/thesfinox/demo-liceo/HEAD?filepath=demo_20210527.ipynb) sia in version offline, per consultazione (accessibile su [GitHub](https://github.com/thesfinox/demo-liceo/blob/master/demo.ipynb) e su [nbviewer](https://nbviewer.jupyter.org/github/thesfinox/demo-liceo/blob/master/demo.ipynb).
+Il notebook [Jupyter](https://jupyter.org/) è disponibile sia in versione interattiva su [Binder.org](https://mybinder.org/v2/gh/thesfinox/demo-liceo/HEAD?filepath=demo.ipynb) sia in version offline, per consultazione (accessibile su [GitHub](https://github.com/thesfinox/demo-liceo/blob/master/demo.ipynb) e su [nbviewer](https://nbviewer.jupyter.org/github/thesfinox/demo-liceo/blob/master/demo.ipynb).
